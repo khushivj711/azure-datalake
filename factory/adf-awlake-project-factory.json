@@ -1,0 +1,9 @@
+{
+	"name": "adf-awlake-project-factory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc0a613c-5631-49aa-b07c-4d24f7fd4812",
+		"tenantId": "2c357084-03a8-48ca-936f-9d9556fb8acd"
+	}
+}
